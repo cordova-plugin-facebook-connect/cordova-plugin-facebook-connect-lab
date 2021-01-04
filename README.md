@@ -13,8 +13,8 @@ This application is configured with a Facebook App ID linked to my personal Face
 To get and install locally this project, run the following commands to clone it and install the dependencies.
 
 ```
-git clone https://github.com/cordova-plugin-facebook-connect/cordova-plugin-facebook-connect
-cd cordova-plugin-facebook-connect
+git clone https://github.com/cordova-plugin-facebook-connect/cordova-plugin-facebook-connect-lab
+cd cordova-plugin-facebook-connect-lab
 npm install
 ```
 
